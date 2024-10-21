@@ -31,4 +31,4 @@ Open Android Studio or VS Code.
 Ensure you have an Android emulator running or a physical Android device connected.
 Run the app: flutter run
 
-To download and install the live application, check out Amazon Appstore.
+To download and install the live application, check out [Amazon Appstore](https://www.amazon.com/gp/product/B0DKFPXSPP)
