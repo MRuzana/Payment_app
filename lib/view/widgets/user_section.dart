@@ -60,7 +60,7 @@ class UserSection extends StatelessWidget {
                   Text(user.mobile,style: const TextStyle(fontSize: 14),),
                   Observer(
                     builder: (context){
-                      return Text('₹ ${userMobx.enteredAmount}',style: const TextStyle(fontSize: 14 ),);
+                      return Text('₹ ${userMobx.enteredAmount}',style: const TextStyle(fontSize: 14,fontWeight: FontWeight.bold));
                     },
                     
                   ),
